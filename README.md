@@ -28,6 +28,7 @@
 
 ## 오픈소스 모니터링 툴 Node Exporter, Prometheus, Grafana
 <div align="center">
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/179ae456-d2fc-4a39-9066-1048687b7ae8" />
   <h4>
     AWS에도 성능 모니터링을 할 수 있는 Cloud Watch라는 툴이 있지만,<br/><br/>
     우리 팀은 보다 다양한 로그를 모니터링을 할 수 있고, 비용절감도 가능하고 사용자가 마음대로 커스텀 할 수 있는<br/><br/>
