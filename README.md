@@ -7,6 +7,8 @@
   <img width="1000" alt="3-Tier_Architecture" src="https://github.com/user-attachments/assets/e7f98655-7efc-4fba-bc21-6c2c04744d0b"/>
   <br/>
   <br/>
+  <br/>
+  <br/>
 </div>
 
 ## 3-Tier 인프라 구축
@@ -18,4 +20,27 @@
   👉👉👉 <a href="https://thread-street-d08.notion.site/3-Tier-13b23386ac06807abb45f62bec37f16d?pvs=4" target="_blank">
     3-Tier 인프라 구축 과정
   </a> 👈👈👈
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</div>
+
+## 오픈소스 모니터링 툴 Node Exporter, Prometheus, Grafana
+<div align="center">
+  <h4>
+    AWS에도 성능 모니터링을 할 수 있는 Cloud Watch라는 툴이 있지만,<br/><br/>
+    우리 팀은 보다 다양한 로그를 모니터링을 할 수 있고, 비용절감도 가능하고 사용자가 마음대로 커스텀 할 수 있는<br/><br/>
+    오픈소스 모니터링 툴인 Prometheus와 Grafana를 사용해 모니터링 하였다.<br/><br/>
+  </h4>
+  👉👉👉 <a href="https://thread-street-d08.notion.site/APM-Tools-13c23386ac06805989cdde936369ef03?pvs=4" target="_blank">
+    모니터링 툴이란?
+  </a> 👈👈👈<br/><br/>
+  👉👉👉 <a href="https://thread-street-d08.notion.site/Node-Exporter-Prometheus-Grafana-13f23386ac0680ca8844e1a52912ce2e?pvs=4" target="_blank">
+    Node Exporter, Prometheus, Grafana 세팅 과정
+  </a> 👈👈👈
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 </div>
