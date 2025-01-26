@@ -47,3 +47,28 @@
 </div>
 
 ## 모니터링 한 로그 기록을 S3 버킷에 저장
+<div align="center">
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/6386465f-c743-4900-b148-155a89429d78" />
+  <h4>Q. S3에 로그를 저장하는 이유는?</h4>
+  <h4>A. 첫 번째로 대량의 로그를 장기 보관 가능하고,<br/><br/>두 번째로 로그 데이터 손실 위험을 최소화 시킬 수 있으며,<br/><br/>세 번째로 수집한 로그를 AWS Athena, Glue, ELK 분석을 할 수 있기 때문이다.</h4>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</div>
+
+## 유저 시나리오대로 서버가 잘 실행되는지 부하테스트를 통해 확인
+<div align="center">
+  <h3>유저 시나리오 소개</h3>
+  <img width="800" alt="Image" src="https://github.com/user-attachments/assets/6d775133-6cfe-457d-9229-a1bb3fcd4ccf" />
+  <br/>
+  <br/>
+  <br/>
+  <h3>부하테스트 툴 k6 설치 및 세팅(테스트 스크립트 작성)</h3>
+  <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b84a133e-74f6-47fe-8169-13bfa0b90064" />
+  <br/>
+  <br/>
+  <br/>
+  <h3>부하테스트 결과 확인 (비교적 100%에 가까운 것을 확인할 수 있다.)</h3>
+  <img width="800" alt="Image" src="https://github.com/user-attachments/assets/ac8b2fa7-85f9-4dff-801d-b47b8ab5e8fd" />
+</div>
